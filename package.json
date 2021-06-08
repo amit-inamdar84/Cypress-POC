@@ -1,0 +1,31 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "Cypress framework and POC project",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:update-snapshots": "cypress run --env updateSnapshots=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-inamdar84/Cypress-POC.git"
+  },
+  "keywords": [
+    "Cypress",
+    "POC",
+    "Framework"
+  ],
+  "author": "Amit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit-inamdar84/Cypress-POC/issues"
+  },
+  "homepage": "https://github.com/amit-inamdar84/Cypress-POC#readme",
+  "dependencies": {
+    "cypress": "^7.5.0",
+    "cypress-image-snapshot": "^4.0.1",
+    "prettier": "^2.3.1"
+  }
+}
