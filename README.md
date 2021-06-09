@@ -1,0 +1,1 @@
+This project is for creating POC for Cypress test automation.
