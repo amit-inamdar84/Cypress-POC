@@ -3,3 +3,5 @@ Create a folder page-objects under cypress folder.
 Under this folder create two sub folders: pages and components
 Under pages, create a file BasePage.js
 In BasePage.js, we write shared logic. i.e. the code that will be shared with all test cases.
+In components sub folder under page-objects, we write functions to perform actions on elements that are located in the web
+component that are common to all pages. Ex: Navigation bar that contains logo and search box.
