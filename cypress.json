@@ -1,1 +1,16 @@
-{}
+{
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "viewportHeight": 660,
+  "viewportWidth": 1000,
+  "waitForAnimations": true,
+  "animationDistanceThreshold": 20,
+  "defaultCommandTimeout": 6000,
+  "execTimeout": 60000,
+  "pageLoadTimeout": 60000,
+  "requestTimeout": 15000,
+  "responseTimeout": 15000,
+  "video": false,
+  "failOnStatusCode": false,
+  "projectId": "jdoomz"
+}
