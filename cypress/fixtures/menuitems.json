@@ -1,0 +1,54 @@
+[
+    {
+        "item": "Querying"
+    },
+    {
+        "item": "Traversal"
+    },
+    {
+        "item": "Actions"
+    },
+    {
+        "item": "Window"
+    },
+    {
+        "item": "Viewport"
+    },
+    {
+        "item": "Location"
+    },
+    {
+        "item": "Navigation"
+    },
+    {
+        "item": "Assertions"
+    },
+    {
+        "item": "Misc"
+    },
+    {
+        "item": "Connectors"
+    },
+    {
+        "item": "Aliasing"
+    },
+    {
+        "item": "Waiting"
+    },
+    {
+        "item": "Network Requests"
+    },
+    {
+        "item": "Files"
+    },
+    {
+        "item": "Local Storage"
+    },
+    {
+        "item": "Cookies"
+    },
+    {
+        "item": "Spies, Stubs & Clocks"
+    }
+
+]

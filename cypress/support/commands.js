@@ -50,3 +50,7 @@ Cypress.Commands.add('login', (username,password) => {
     cy.get('#user_remember_me').click();
     cy.contains('Sign in').click();
 })
+
+Cypress.Commands.add('verifyBackgroundColor', (locator,rgbValue) => {
+    cy.get(locator).should('have.css', 'background-color', rgbValue);
+})
