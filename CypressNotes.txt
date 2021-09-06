@@ -5,3 +5,9 @@ Under pages, create a file BasePage.js
 In BasePage.js, we write shared logic. i.e. the code that will be shared with all test cases.
 In components sub folder under page-objects, we write functions to perform actions on elements that are located in the web
 component that are common to all pages. Ex: Navigation bar that contains logo and search box.
+
+Pending:
+posttest scripts not combining and generating the mochawesome report. However individually they are running. i.e. npm run combine-reports,
+npm run generate-report and npm run posttest are running when we run separately.
+
+

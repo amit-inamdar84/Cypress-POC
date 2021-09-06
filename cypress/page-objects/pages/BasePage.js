@@ -22,4 +22,8 @@ export default class BasePage{
     static setLargeDesktopViewPort(){
         cy.viewport(1980,1080);
     }
+
+    static goBack(){
+        cy.go('back');
+    }
 }
